@@ -1,0 +1,25 @@
+ASTERION WORKS — PRODUCTS, PRICING, AND CUSTOMER SUPPORT
+Price list effective February 1, 2025 (US dollars)
+
+PRODUCTS
+WattWatch One is a plug-in energy monitor for a single 120 V circuit. It measures current use and sends readings to the Asterion dashboard over Wi-Fi. List price: $129 per unit. The standard package includes the monitor, quick-start guide, and a one-year limited hardware warranty.
+
+WattWatch Pro is a three-phase panel monitor for small commercial buildings. Installation must be performed by a qualified electrician. List price: $489 per unit. The package includes six current sensors and a two-year limited hardware warranty. Asterion does not perform electrical installation.
+
+Clarity Hub is a local network gateway that combines readings from up to 20 WattWatch devices and can export reports without a paid cloud subscription. List price: $219. It includes a two-year limited hardware warranty. A Clarity Hub is optional for customers using the hosted dashboard.
+
+The Energy Insights hosted dashboard plan costs $12 per monitored site per month, billed annually at $144 per site. It includes 24 months of historical charts, downloadable CSV reports, and email alerts. One account may have multiple sites, each billed separately. The dashboard subscription is not included with hardware purchases.
+
+RETURNS, REFUNDS, AND WARRANTY
+A direct-sale customer may return an unused product in its original packaging within 30 calendar days of delivery. The customer must request a return authorization from help@asterion.example before shipping the item back. After the returned item is inspected, the purchase price is refunded to the original payment method within 10 business days. Original shipping charges are not refundable. Products purchased from an authorized reseller must be returned to that reseller under its return policy.
+
+If a product arrives damaged or fails during its warranty period, contact support with the order number, product serial number, a description of the issue, and photos when relevant. Asterion will troubleshoot first and, if the defect is covered, provide repair or replacement at its discretion. The customer should not ship a device until support issues a return authorization. Warranty coverage excludes accidental damage, liquid ingress, unauthorized modification, and normal cosmetic wear. Warranty coverage starts on the delivery date for direct orders; reseller customers should provide proof of purchase.
+
+SUPPORT AND TROUBLESHOOTING
+Support is available Monday through Friday, 8:00 a.m.–5:00 p.m. Pacific Time, excluding US federal holidays, by help@asterion.example or 1-800-555-0148. Include the product model, serial number, app version, and a concise description of the issue. Standard cases are acknowledged within one business day; this is an acknowledgment target, not a guaranteed resolution time.
+
+For a WattWatch One that is not reporting: confirm that the device has power, check that the 2.4 GHz Wi-Fi network is available, and restart the monitor by unplugging it for 10 seconds before reconnecting it. The device does not support 5 GHz-only Wi-Fi networks. Do not open the enclosure. If readings remain absent after 15 minutes, contact support with the serial number and the time of the last successful reading.
+
+For a Clarity Hub that is offline: check its power and Ethernet cable, confirm that the router has an active internet connection, and restart the hub by disconnecting power for 15 seconds. Allow up to five minutes for it to reconnect. If the status light continues blinking amber, record the light pattern and contact support. Do not factory-reset the hub unless a support technician instructs you to do so.
+
+All prices are US list prices before applicable tax and may change for future orders. This document does not state reseller pricing, international availability, or exceptions to the published return and warranty terms.

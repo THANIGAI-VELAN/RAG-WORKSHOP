@@ -1,0 +1,23 @@
+ASTERION WORKS — IT SECURITY AND TROUBLESHOOTING
+Policy edition: January 2025
+
+ACCOUNT AND DEVICE SECURITY
+Employees must use a unique password for every work account and enroll in multi-factor authentication (MFA) for company email, source control, and the HR portal. Passwords must not be shared in chat, email, or documents. The IT-approved password manager is the only approved place to store work credentials. IT will never ask an employee to disclose a one-time MFA code.
+
+Company laptops must use full-disk encryption, automatic screen locking after no more than 10 minutes of inactivity, and current operating-system security updates. Employees should install software only from the company portal or with IT approval. Personal devices may not store customer exports or company source code unless specifically enrolled in the approved mobile-device management program.
+
+Use the company VPN when accessing internal systems from public Wi-Fi. Do not connect unknown USB devices to a company computer. Sensitive customer and employee records may be shared only with authorized recipients using approved company storage; do not attach them to public file-sharing services or paste them into public AI tools.
+
+PHISHING AND INCIDENT REPORTING
+Treat unexpected password-reset links, payment changes, and attachments as suspicious. Verify unusual requests with the sender through a separate known channel. Do not reply with credentials or approve an MFA prompt you did not initiate. Forward suspected phishing messages as an attachment to security@asterion.example and then delete them.
+
+Report a lost laptop, suspected malware, exposed credential, accidental data disclosure, or unauthorized account access to security@asterion.example immediately. If a device is lost, include the device asset tag, approximate time, and location. Do not attempt to investigate malware by deleting files or reinstalling software before IT responds; disconnect the affected device from Wi-Fi or Ethernet if safe to do so.
+
+COMMON EMPLOYEE TROUBLESHOOTING
+If company email stops syncing, first check the service-status page at status.asterion.example and confirm the device has internet access. Restart the mail application and sign in again only through the company sign-in page. Never enter a company password on a page reached through an unexpected email link. If MFA fails, check that the device clock is set automatically and use the account recovery process; do not share recovery codes with support staff.
+
+For VPN connection problems, verify internet access, confirm the company VPN client is updated, and restart the client. If the issue continues, send IT the operating system version, VPN client version, exact error text, and the time of failure at it@asterion.example. Do not send passwords, MFA codes, or private keys in a support request.
+
+IT support is available Monday through Friday, 8:00 a.m.–5:00 p.m. Pacific Time at it@asterion.example. Urgent security incidents should be reported immediately by email and by notifying a manager or the on-call IT contact listed in the employee directory. IT will confirm receipt and provide next steps; employees should not assume an account or device is safe until IT confirms it.
+
+Security policies describe minimum requirements and do not guarantee that any system is immune to attack. When unsure, stop the activity and contact IT or Security rather than bypassing a warning.
